@@ -15,6 +15,8 @@ To use this model, you can run the Jupyter notebook in Google Colab or on your l
 - Python 3.x
 - Tensorflow , Keras
 - Transformers
+- Pandas
+- Numpy
 
 ### Instructions
 1. Clone this repository.
