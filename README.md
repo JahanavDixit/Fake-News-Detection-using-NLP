@@ -25,10 +25,7 @@ To use this model, you can run the Jupyter notebook in Google Colab or on your l
 4. Run the notebook cells to preprocess the dataset, train the model, and test the model on new data.
 
 ## Results
-The model achieved an accuracy of 95% on the test dataset.
+The model achieved an accuracy of 91-93% on the test dataset.
 
 ## Credits
 The dataset used for training the model is [Fake News dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset), which is publicly available.
-
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
