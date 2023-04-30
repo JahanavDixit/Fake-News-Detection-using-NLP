@@ -19,7 +19,7 @@ To use this model, you can run the Jupyter notebook in Google Colab or on your l
 ### Instructions
 1. Clone this repository.
 2. Install the required packages using pip.
-3. Open the Jupyter notebook `fake-news-detection.ipynb` in Google Colab or on your local machine.
+3. Open the Jupyter notebook `Fake_News_Detection.ipynb` in Google Colab or on your local machine.
 4. Run the notebook cells to preprocess the dataset, train the model, and test the model on new data.
 
 ## Results
